@@ -53,7 +53,3 @@ exmple:
 graphql 图形工具ui:<br>
     [An in-browser IDE for exploring GraphQL](https://github.com/graphql/graphiql)<br>
     [An App GraphQL](https://github.com/skevy/graphiql-app)
-
-git commit -m "first commit"
-git remote add origin git@gitee.com:geng_hz/spring-boot-graphql.git
-git push -u origin master
