@@ -17,9 +17,9 @@ spring:
   datasource:
     continue-on-error: true
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/test?useSSL=false
+    url: jdbc:mysql://47.100.59.206:3306/qarphql?useSSL=false&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
     username: root
-    password: root
+    password: Yang123456!qazwsx
 
 #graphql:
 #  servlet:
